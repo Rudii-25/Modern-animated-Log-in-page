@@ -1,7 +1,7 @@
 <h1 align="center">✨ Modern Animated Login Page ✨</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/Rudii-25/Modern-animated-Log-in-page?style=for-the-badge" alt="license">
+  <img src="https://img.shields.io/github/license/Rudii-25/Modern-animated-Log-in-page?style=for-the-badge" alt="MIT License">
   <img src="https://img.shields.io/github/stars/Rudii-25/Modern-animated-Log-in-page?style=for-the-badge" alt="stars">
   <img src="https://img.shields.io/github/forks/Rudii-25/Modern-animated-Log-in-page?style=for-the-badge" alt="forks">
   <img src="https://img.shields.io/github/issues/Rudii-25/Modern-animated-Log-in-page?style=for-the-badge" alt="issues">
