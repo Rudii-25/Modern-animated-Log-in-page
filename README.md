@@ -14,7 +14,11 @@
 ---
 
 ## 🚀 Live Preview
-🔗 **[View on GitHub Pages](https://rudii-25.github.io/Modern-animated-Log-in-page/)**
+<p align="center">
+  <a href="https://rudii-25.github.io/Modern-animated-Log-in-page/">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-ffeba7?style=for-the-badge&logo=netlify&logoColor=black" />
+  </a>
+</p>
 
 ## 📸 Preview
 <p align="center">
