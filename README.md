@@ -88,10 +88,17 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ## 💖 Credits
 
 Designed & Developed by **[Rudra](https://github.com/Rudii-25)**
-If you like this project, ⭐ the repo and share it!
+<h2 >❤️ Show Some Love</h2>
+<p >If you like this project:</p>
+
+<p >
+  ⭐ Star this repo <br>
+  🔄 Share with your friends <br>
+  💬 Suggest improvements
+</p>
 
 ---
 
 <p align="center">
-  Made with ❤️ by <b>Rudra</b>
+  Made with ❤️ by <b>Rudra Sharma</b>
 </p>
